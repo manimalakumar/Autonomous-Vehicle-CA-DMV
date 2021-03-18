@@ -1,7 +1,7 @@
 Autonomous-Vehicle-CA-DMV
-# CA DMV Autonomous Vehicle (AV) Test Result Data Pipeline
+# CA DMV Autonomous Vehicle Test Result Data Pipeline
 
-## What problem does the CA DMV AV Test Result Data Pipeline solve?
+## What problem does the CA DMV Autonomous Vehicle (AV) Test Result Data Pipeline solve?
 California DMV is the only DMV in the USA publishing AV road test data. However, the data is not readily ingestible for data analysis. 
 The DMV data lies in hundreds of forms. The data pipeline processes the form data using primarily Optical Chracter Recognition (OCR) and some Natural Language Processing (NLP).
 A neat excel file is generated at the outset. You could also check the https://medium.com/@manimalakumar_29300/data-pipeline-for-autonomous-vehicle-test-drive-results-4eabd9b73c49 for additional context.
@@ -43,5 +43,5 @@ A neat excel file is generated at the outset. You could also check the https://m
 ![Test Image 4](https://user-images.githubusercontent.com/34682445/111553090-0a077780-875a-11eb-9776-3c52c866a876.png)
 ![Test Image 5](https://user-images.githubusercontent.com/34682445/111553112-155aa300-875a-11eb-8f41-618d3c4c6fb9.png)
 
-#### Sample of the generated CSV file (a subset of columns and rows)
+## Sample of the generated CSV file (a subset of columns and rows)
 ![Test Image 6](https://user-images.githubusercontent.com/34682445/111553243-56eb4e00-875a-11eb-893f-a83b657aea4f.png)
